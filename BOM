@@ -1,0 +1,6 @@
+Parts list
+1, MAX7219 4-in-1 32×8 LED Matrix Display
+2, Raspberry Pi with network connection or Zero with wifi.
+3, Some wire to connect them. Beware of loose wires and bad connections.
+
+Note: No hardware RTC is required for Raspberry Pi OS. The system handles timekeeping in software and synchronizes the clock via NTP when network access is available.
