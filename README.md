@@ -1,5 +1,7 @@
 # Simple MAX7219 LED Matrix Clock
 
+![LED Matrix Clock](clock.jpg)
+
 A very simple digital clock for a 4-module MAX7219 LED matrix.
 
 This project is a simplified version of the `silly_clock.py` example
